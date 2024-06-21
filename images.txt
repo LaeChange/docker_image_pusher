@@ -8,9 +8,9 @@ kibana:7.5.2
 apache/rocketmq
 apacherocketmq/rocketmq-dashboard
 rabbitmq
-v2ray/official v2ray
+v2ray/official
 xuxueli/xxl-job-admin
-quay.io/aminvakil/ocserv:1.1.6-13 ocserv:1.1.6-13
+quay.io/aminvakil/ocserv:1.1.6-13
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
