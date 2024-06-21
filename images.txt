@@ -28,7 +28,6 @@ tomcat
 logstash:7.5.2
 jenkins/jenkins:latest-jdk21
 flink:1.17-java8
-kafka:3.7.0
 zookeeper
 wurstmeister/kafka
 wurstmeister/zookeeper
