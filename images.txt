@@ -6,6 +6,7 @@ redis
 elasticsearch:7.5.2
 kibana:7.5.2
 apache/rocketmq
+apacherocketmq/rocketmq-dashboard
 rabbitmq
 v2ray/official
 #支持私库
