@@ -32,6 +32,14 @@ kafka:3.7.0
 zookeeper
 wurstmeister/kafka
 wurstmeister/zookeeper
+ubuntu
+debian
+centos
+amazonlinux
+wordpress
+php
+haproxy
+telegraf
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
