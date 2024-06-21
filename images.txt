@@ -8,3 +8,5 @@ jeessy/ddns-go
 nacos/nacos-server
 mysql
 redis
+elasticsearch
+kibana
